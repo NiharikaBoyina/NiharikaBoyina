@@ -15,7 +15,6 @@
 - 📚 Building backend development projects
 
 
-```md id="2t4esg"
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niharikaboyina) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharikaboyina4613@gmail.com)
@@ -53,3 +52,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```
+
