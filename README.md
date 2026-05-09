@@ -32,9 +32,9 @@
 <br/>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=NiharikaBoyina&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=NiharikaBoyina&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=NiharikaBoyina&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=NiharikaBoyina&theme=tokyonight&hide_border=false)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
