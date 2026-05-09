@@ -17,13 +17,14 @@
 ---
 
 ## 🛠️ Tools & Technologies I Use
-- ☕ Java
+- ☕ Java / C
 - 🌱 Spring Boot
 - 🗄️ SQL / MySQL
 - 🌐 HTML, CSS, JavaScript
 - 🐍 Python
 - 🔧 Git & GitHub
 - 💻 VS Code / IntelliJ IDEA
+- 🎨 Canva / Figma
 
 
 ## 🌐 Socials:
