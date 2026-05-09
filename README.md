@@ -24,7 +24,6 @@
 - 🐍 Python
 - 🔧 Git & GitHub
 - 💻 VS Code / IntelliJ IDEA
-- 🎨 Canva / Figma
 
 
 ## 🌐 Socials:
