@@ -1,9 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=FF4B4B&center=true&vCenter=true&width=800&lines=Exploring+Code+%7C+Building+Ideas+%7C+Learning+Daily;I'm+Niharika+Boyina" />
-</h1> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=48&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=NIHARIKA+BOYINA" />
+</h1>
+
+---
 
 👩‍💻 Who Am I?
 🎓 CSE (AI & ML) Student at KIIT University  
+💻 Backend Development & AI/ML Enthusiast  
 🚀 Passionate about building real-world applications and improving problem-solving skills
 
 ---
