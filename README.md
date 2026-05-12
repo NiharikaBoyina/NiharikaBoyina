@@ -1,7 +1,8 @@
 <h1 align="center">
-  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is Niharika Boyina
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Niharika+Boyina" />
 </h1>
-## 👩‍💻 Who Am I?
+
+👩‍💻 Who Am I?
 🎓 CSE (AI & ML) Student at KIIT University  
 💻 Backend Development & AI/ML Enthusiast  
 🚀 Passionate about building real-world applications and improving problem-solving skills
