@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=36&pause=1000&color=F7971E&center=true&vCenter=true&width=750&lines=Hey+there+👋;I'm+Niharika+Boyina;Welcome+to+my+GitHub+Profile" />
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Hi+I'm+Niharika+Boyina;Java+%7C+DSA+%7C+AI+ML+Learner;Building+Projects+Everyday" />
+</h1> 
 
 👩‍💻 Who Am I?
 🎓 CSE (AI & ML) Student at KIIT University  
