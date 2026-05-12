@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=34&pause=1000&color=00FFAA&center=true&vCenter=true&width=750&lines=Hi+I'm+Niharika+Boyina;Java+%7C+DSA+%7C+AI+ML+Learner;Building+Projects+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=FF4B4B&center=true&vCenter=true&width=800&lines=Exploring+Code+%7C+Building+Ideas+%7C+Learning+Daily;I'm+Niharika+Boyina" />
 </h1> 
 
 👩‍💻 Who Am I?
