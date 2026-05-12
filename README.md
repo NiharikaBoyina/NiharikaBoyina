@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=48&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=NIHARIKA+BOYINA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=52&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=✦+NIHARIKA+BOYINA+✦" />
 </h1>
 
 ---
