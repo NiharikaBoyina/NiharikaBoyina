@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Niharika+Boyina;Aspiring+Software+Engineer;AI+%26+ML+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=36&pause=1000&color=F7971E&center=true&vCenter=true&width=750&lines=Hey+there+👋;I'm+Niharika+Boyina;Welcome+to+my+GitHub+Profile" />
 </h1>
 
 👩‍💻 Who Am I?
