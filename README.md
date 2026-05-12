@@ -1,4 +1,4 @@
-# Hi, I'm Niharika 👋
+<h1 align="center">Niharika Boyina</h1>
 
 ## 👩‍💻 Who Am I?
 🎓 CSE (AI & ML) Student at KIIT University  
