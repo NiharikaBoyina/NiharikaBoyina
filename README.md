@@ -32,9 +32,6 @@
 
 ---
 
-## 📈 GitHub Activity
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharikaBoyina&theme=tokyonight)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niharikaboyina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharikaboyina4613@gmail.com) 
