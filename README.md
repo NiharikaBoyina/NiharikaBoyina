@@ -1,13 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=52&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=✦+NIHARIKA+BOYINA+✦" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=50&pause=1000&color=BF00FF&center=true&vCenter=true&width=800&lines=NIHARIKA+BOYINA" />
 </h1>
 
 ---
 
-👩‍💻 Who Am I?
-🎓 CSE (AI & ML) Student at KIIT University  
-💻 Backend Development & AI/ML Enthusiast  
-🚀 Passionate about building real-world applications and improving problem-solving skills
+## 👩‍💻 Who Am I?
+- 🎓 CSE (AI & ML) Student at KIIT University  
+- 💻 Backend Development & AI/ML Enthusiast  
+- 🚀 Passionate about building real-world applications  
+- 🧠 Always learning & improving problem-solving skills
 
 ---
 
@@ -29,6 +30,11 @@
 - 🔧 Git & GitHub
 - 💻 VS Code / IntelliJ IDEA
 
+---
+
+## 📈 GitHub Activity
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NiharikaBoyina&theme=tokyonight)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niharikaboyina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niharikaboyina4613@gmail.com) 
@@ -38,6 +44,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=NiharikaBoyina&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=NiharikaBoyina&theme=tokyonight&hide_border=false)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
