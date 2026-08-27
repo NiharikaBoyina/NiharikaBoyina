@@ -1,4 +1,5 @@
-# Niharika 👋
+<img width="1717" height="916" alt="image" src="https://github.com/user-attachments/assets/4b61e623-61d9-4869-8b4f-db259afe316a" />
+
 ### Computer Science Student • Exploring AI & Machine Learning
 ---
 
