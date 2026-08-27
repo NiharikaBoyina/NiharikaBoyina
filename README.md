@@ -1,7 +1,5 @@
-# Hey, I'm Niharika 👋
-
-### `Computer Science Student | Exploring AI & Machine Learning`
-
+# Niharika 👋
+### Computer Science Student • Exploring AI & Machine Learning
 ---
 
 ### 🌱 Currently Learning
