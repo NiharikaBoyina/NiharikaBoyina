@@ -47,4 +47,4 @@ and exploring different areas of technology along the way.
   <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
----
+
