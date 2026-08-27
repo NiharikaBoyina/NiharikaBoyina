@@ -1,4 +1,4 @@
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/4b61e623-61d9-4869-8b4f-db259afe316a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4b61e623-61d9-4869-8b4f-db259afe316a" />
 
 ### Computer Science Student • Exploring AI & Machine Learning
 ---
