@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Niharika Boyina 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/HI%2C%20I'M-NIHARIKA%20BOYINA-0A66C2?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="Niharika Boyina" height="45" />
+</p>
 
 <p align="center">
   <b>B.Tech Computer Science Student</b> • <i>Exploring AI, Machine Learning & Cloud Technologies</i>
