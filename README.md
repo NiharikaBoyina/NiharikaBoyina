@@ -1,37 +1,55 @@
-# Hi, I'm Niharika 👋
+<h1 align="center">Hi, I'm Niharika Boyina 👋</h1>
 
-### Computer Science Student • Exploring AI & Machine Learning
----
+<p align="center">
+  <b>B.Tech Computer Science Student</b> • <i>Exploring AI, Machine Learning & Cloud Technologies</i>
+</p>
 
-### 🌱 Currently Learning
-
-- Python
-- Data Structures & Algorithms
-- Machine Learning
-- Git & GitHub
-
-### 💡 Interested In
-
-`Artificial Intelligence` • `Machine Learning` • `Problem Solving` • `Building Things`
-
-### 🎯 My Direction
-
-> **Learn → Experiment → Build → Improve**
-
-I'm working towards building a career in **Machine Learning**
-and exploring different areas of technology along the way.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0A66C2&center=true&vcenter=true&width=500&lines=Building+Flight+Delay+Sense+Models;Exploring+Cloud+Architecture+%26+GCP;Translating+Data+Into+Actionable+Insights" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Languages
+### 💻 Tech Stack & Tools
 
-`Python` `Java` `C`
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
-### 📚 Learning
-
-`Machine Learning` `DSA` `Git`
+**Developer Tools & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
+
+### 🌱 Current Focus & Domain Interests
+
+* **Core Focus:** Machine Learning Algorithms, Predictive Modeling & Data Analytics
+* **Currently Deep-Diving Into:** Data Structures & Algorithms in Java/Python
+* **Community & Leadership:** Active Member at **USC.KIIT**
+
+> **Philosophy:** *Learn → Experiment → Build → Iterate*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niharikaboyina&show_icons=true&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikaboyina&layout=compact&theme=radial&hide_border=true" width="45%" />
+</p>
+
+---
+
 <div align="center">
   <h2>📫 Let's Connect!</h2>
   
