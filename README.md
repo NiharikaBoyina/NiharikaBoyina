@@ -32,18 +32,18 @@ and exploring different areas of technology along the way.
 `Machine Learning` `DSA` `Git`
 
 ---
-### 🔗 Connect with Me
-
-<a href="https://www.linkedin.com/in/niharikaboyina">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/niharikaboyina">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" />
-</a>
-&nbsp;
-<a href="mailto:niharikaboyina4613@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-
+<div align="center">
+  <h2>📫 Let's Connect!</h2>
+  
+  <a href="https://www.linkedin.com/in/niharikaboyina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Niharika%20Boyina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/niharikaboyina" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-niharikaboyina-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:niharikaboyina4613@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
