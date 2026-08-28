@@ -4,10 +4,6 @@
   <b>B.Tech Computer Science Student</b> • <i>Exploring AI, Machine Learning & Cloud Technologies</i>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0A66C2&center=true&vcenter=true&width=500&lines=Building+Flight+Delay+Sense+Models;Exploring+Cloud+Architecture+%26+GCP;Translating+Data+Into+Actionable+Insights" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 💻 Tech Stack & Tools
