@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/HI%2C%20I'M-NIHARIKA%20BOYINA-0A66C2?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="Niharika Boyina" height="45" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vcenter=true&width=600&height=50&lines=Hi%2C+I'm+Niharika+Boyina+%F0%9F%90%B6;Hi%2C+I'm+Niharika+Boyina+%F0%9F%91%8B" alt="Header" />
 </p>
 
 <p align="center">
