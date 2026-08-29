@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>B.Tech Computer Science Student</b> • <i>Exploring AI, Machine Learning & Cloud Technologies</i>
+  <b>B.Tech Computer Science Student</b> • <i>Exploring AI & Machine Learning </i>
 </p>
 
 ---
