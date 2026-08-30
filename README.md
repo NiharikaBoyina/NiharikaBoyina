@@ -36,14 +36,6 @@
 
 ---
 
-### 📊 Coding Stats
-
-<p align="center">
-  <img src="https://leetcode-stats-badge.vercel.app/api?username=AlgoKnight_27&theme=dark" alt="LeetCode Stats" />
-</p>
-
----
-
 <div align="center">
   <h2>📫 Let's Connect!</h2>
   
