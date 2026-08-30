@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vcenter=true&width=600&height=50&lines=Hi%2C+I'm+Niharika+Boyina+%F0%9F%90%B6;Hi%2C+I'm+Niharika+Boyina+%F0%9F%91%8B" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0A66C2&center=true&vcenter=true&width=600&height=50&lines=Hi%2C+I'm+Niharika+Boyina+%F0%9F%92%BB;Hi%2C+I'm+Niharika+Boyina+%F0%9F%91%8B" alt="Header" />
 </p>
 
 <p align="center">
-  <b>B.Tech Computer Science Student</b> • <i>Exploring AI & Machine Learning </i>
+  <b>B.Tech Computer Science Student</b> • <i>Exploring AI & Machine Learning</i>
 </p>
 
 ---
@@ -18,12 +18,13 @@
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-**Developer Tools & Cloud**
+**Developer Tools & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
 ---
@@ -32,6 +33,14 @@
 
 * **Core Focus:** Machine Learning Algorithms, Predictive Modeling & Data Analytics
 * **Currently Deep-Diving Into:** Data Structures & Algorithms in Java/Python
+
+---
+
+### 📊 Coding Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/AlgoKnight_27" alt="LeetCode Stats" height="170" />
+</p>
 
 ---
 
@@ -46,7 +55,7 @@
     <img src="https://img.shields.io/badge/Kaggle-niharikaboyina-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:niharikaboyina4613@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://leetcode.com/u/AlgoKnight_27/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-AlgoKnight__27-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
