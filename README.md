@@ -39,7 +39,7 @@
 ### 📊 Coding Stats
 
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/AlgoKnight_27" alt="LeetCode Stats" height="170" />
+  <img src="https://leetcode-stats-badge.vercel.app/api?username=AlgoKnight_27&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
